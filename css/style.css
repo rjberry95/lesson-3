@@ -1,0 +1,28 @@
+body {
+	background-color: #d6dbdf;
+	font-family: sans-serif;
+}
+
+.wrapper{
+	background-color: white;
+	width: 50%;
+	margin: 30px auto 50px auto;
+	padding: 20px;
+	border-radius: 10px;
+}
+
+.section {
+	margin: 15px;
+	border-bottom: 2px solid #d6dbdf;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 40pt;
+	color: #d6dbdf;
+	margin: 25px 0px;
+}
+
+p{
+	margin: 20px 0px;
+}
